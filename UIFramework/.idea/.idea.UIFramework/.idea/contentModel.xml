@@ -4,7 +4,135 @@
     <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_UIFramework.-1443696812.00" t="ExcludeRecursive" />
     <e p="G:\MyUnitProjects\UnityUIFramework\UIFramework" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="EnhancedScroller v2" t="Include">
+          <e p="ChangeLog.txt" t="Include" />
+          <e p="Demos" t="Include">
+            <e p="01 Simple Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="SimpleDemo.cs" t="Include" />
+            </e>
+            <e p="02 Multiple Cell Types" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="CellViewFooter.cs" t="Include" />
+              <e p="CellViewHeader.cs" t="Include" />
+              <e p="CellViewRow.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="MultipleCellTypesDemo.cs" t="Include" />
+            </e>
+            <e p="03 Selection Demo" t="Include">
+              <e p="InventoryCellView.cs" t="Include" />
+              <e p="InventoryData.cs" t="Include" />
+              <e p="SelectionDemo.cs" t="Include" />
+            </e>
+            <e p="04 Jump To Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="05 Remote Resources" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="ImageList.cs" t="Include" />
+            </e>
+            <e p="06 Snapping" t="Include">
+              <e p="PlayWin.cs" t="Include" />
+              <e p="SlotCellView.cs" t="Include" />
+              <e p="SlotController.cs" t="Include" />
+              <e p="SlotData.cs" t="Include" />
+              <e p="SnappingDemo.cs" t="Include" />
+            </e>
+            <e p="07 Refreshing" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="08 View Driven Cell Sizes" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="09 Cell Events" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="10 Grid Simulation" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="10b Grid Selection" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="11 Pull Down Refresh" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="12 Nested Scrollers" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="DetailCellView.cs" t="Include" />
+              <e p="DetailData.cs" t="Include" />
+              <e p="MasterCellView.cs" t="Include" />
+              <e p="MasterData.cs" t="Include" />
+              <e p="ScrollRectEx.cs" t="Include" />
+            </e>
+            <e p="12b Nested Linked Scrollers (Alternate Grid)" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="DetailCellView.cs" t="Include" />
+              <e p="DetailData.cs" t="Include" />
+              <e p="MasterCellView.cs" t="Include" />
+              <e p="MasterData.cs" t="Include" />
+              <e p="ScrollRectEx.cs" t="Include" />
+            </e>
+            <e p="13 Pagination" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="LoadingCellView.cs" t="Include" />
+            </e>
+            <e p="14 Key Control" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="14b Key Control Grid" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="15 Expanding Cells" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="Main Menu" t="Include">
+              <e p="MainMenu.cs" t="Include" />
+              <e p="ReturnToMainMenu.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="EnhancedScroller.cs" t="Include" />
+            <e p="EnhancedScrollerCellView.cs" t="Include" />
+            <e p="IEnhancedScrollerDelegate.cs" t="Include" />
+            <e p="SmallList.cs" t="Include" />
+            <e p="Tween.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Tutorials" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="upgrading from 1.x to 2.x.txt" t="Include" />
+        </e>
         <e p="Lean" t="Include">
           <e p="Common" t="Include">
             <e p="Documentation" t="Include">
@@ -112,6 +240,27 @@
               <e p="LeanWindowCloser.cs" t="Include" />
             </e>
           </e>
+          <e p="Pool" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LeanPoolDebugger.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Extras" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LeanPooledRigidbody.cs" t="Include" />
+                <e p="LeanPooledRigidbody2D.cs" t="Include" />
+              </e>
+            </e>
+            <e p="LeanPool.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="IPoolable.cs" t="Include" />
+              <e p="LeanClassPool.cs" t="Include" />
+              <e p="LeanGameObjectPool.cs" t="Include" />
+              <e p="LeanPool.cs" t="Include" />
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
           <e p="Touch" t="Include">
             <e p="Examples" t="Include">
               <e p="Scripts" t="Include">
@@ -323,10 +472,50 @@
             </e>
           </e>
         </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTween.Modules.asmdef" t="Include" />
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+            </e>
+            <e p="DOTweenPro" t="Include">
+              <e p="DOTweenAnimation.cs" t="Include" />
+              <e p="DOTweenDeAudio.cs" t="Include" />
+              <e p="DOTweenDeUnityExtended.cs" t="Include" />
+              <e p="DOTweenPro.Scripts.asmdef" t="Include" />
+              <e p="DOTweenProShortcuts.cs" t="Include" />
+              <e p="DOTweenTextMeshPro.cs" t="Include" />
+              <e p="DOTweenTk2d.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DOTweenAnimationInspector.cs" t="Include" />
+                <e p="DOTweenPreviewManager.cs" t="Include" />
+                <e p="DOTweenPro.EditorScripts.asmdef" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="UI" t="Include">
+            <e p="RectTRansformSafeArea.cs" t="Include" />
+          </e>
+        </e>
       </e>
+      <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
+      <e p="DOTweenPro.EditorScripts.csproj" t="IncludeRecursive" />
+      <e p="DOTweenPro.Scripts.csproj" t="IncludeRecursive" />
       <e p="LeanCommon.csproj" t="IncludeRecursive" />
       <e p="LeanCommonPlus.csproj" t="IncludeRecursive" />
       <e p="LeanGUI.csproj" t="IncludeRecursive" />
+      <e p="LeanPool.csproj" t="IncludeRecursive" />
       <e p="LeanTouch.csproj" t="IncludeRecursive" />
       <e p="LeanTouchPlus.csproj" t="IncludeRecursive" />
       <e p="LeanTransition.csproj" t="IncludeRecursive" />
