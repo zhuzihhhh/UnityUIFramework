@@ -6,6 +6,15 @@
     <e p="G:\MyUnitProjects\UnityUIFramework\UIFramework" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="BansheeGz" t="Include">
+          <e p="BGDatabase" t="Include">
+            <e p="readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="link.xml" t="Include" />
+            </e>
+            <e p="Third-Party Notices.txt" t="Include" />
+          </e>
+        </e>
         <e p="EnhancedScroller v2" t="Include">
           <e p="ChangeLog.txt" t="Include" />
           <e p="Demos" t="Include">
@@ -505,6 +514,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="UI" t="Include">
+            <e p="EventPenetrate.cs" t="Include" />
             <e p="RectTRansformSafeArea.cs" t="Include" />
           </e>
         </e>
