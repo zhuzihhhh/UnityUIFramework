@@ -513,6 +513,12 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CustomDragDropTilemap" t="Include">
+            <e p="Tile.cs" t="Include" />
+            <e p="TileMap.cs" t="Include" />
+            <e p="TileMark.cs" t="Include" />
+            <e p="TileMarkGroup.cs" t="Include" />
+          </e>
           <e p="UI" t="Include">
             <e p="EventPenetrate.cs" t="Include" />
             <e p="RectTRansformSafeArea.cs" t="Include" />
