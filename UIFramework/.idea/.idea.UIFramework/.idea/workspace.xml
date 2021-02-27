@@ -11,14 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/EventPenetrate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://G:/MyUnitProjects/UnityUIFramework/UIFramework/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -26,6 +19,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/CanvasSafeArea.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/RectTRansformSafeArea.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/EventPenetrate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CustomDragDropTilemap/Tile.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CustomDragDropTilemap/TileMarkGroup.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ovD55fBIRAvS1o0ulpZOgfBJF3" />
@@ -72,6 +67,7 @@
       <updated>1614157984600</updated>
       <workItem from="1614158020294" duration="3309000" />
       <workItem from="1614222089264" duration="4631000" />
+      <workItem from="1614411928665" duration="986000" />
     </task>
     <servers />
   </component>

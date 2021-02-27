@@ -59,6 +59,15 @@ public class TileMarkGroup : MonoBehaviour, IEnumerable<TileMark> {
         }
     }
 
+    [ExecuteInEditMode]
+    [ContextMenu("删除所有tileMarkGroup的保存位置")]
+    public void DeleteAllSavedPosition() {
+        var allGroup = GameObject.FindObjectsOfType<TileMarkGroup>();
+        foreach (var group in allGroup) {
+            group.DeleteSavedPosition();
+        }
+    }
+
     private Vector3 SavedPosition {
         get
         {
@@ -67,6 +76,10 @@ public class TileMarkGroup : MonoBehaviour, IEnumerable<TileMark> {
             else return JsonUtility.FromJson<Vector3>(v3Str);
         }
         set { PlayerPrefs.SetString(gameObject.name, JsonUtility.ToJson(transform.position)); }
+    }
+
+    private void DeleteSavedPosition() {
+        PlayerPrefs.DeleteKey(gameObject.name);
     }
 
     public void Refresh() {
@@ -98,7 +111,7 @@ public class TileMarkGroup : MonoBehaviour, IEnumerable<TileMark> {
     public void UpdateGroupTilesUseage() {
         if (IsAllMarkOnLegalTile()) {
             var offset = (Vector2) marks[0].OverTile.transform.position - (Vector2) marks[0].transform.position;
-            
+
             transform.DOMove(offset, 0.2f).SetRelative().OnComplete(() => { SavedPosition = transform.position; });
             ConfirmTileUse();
         }
