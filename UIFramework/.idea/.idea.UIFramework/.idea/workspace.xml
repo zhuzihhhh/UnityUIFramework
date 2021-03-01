@@ -13,16 +13,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/EventPenetrate.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="IdeDocumentHistory">
-    <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Lean/Touch+/Scripts/LeanPinchCamera.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/CanvasSafeArea.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/RectTRansformSafeArea.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/EventPenetrate.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CustomDragDropTilemap/Tile.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CustomDragDropTilemap/TileMarkGroup.cs" />
-    </changedPaths>
-  </component>
   <component name="ProjectId" id="1ovD55fBIRAvS1o0ulpZOgfBJF3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +33,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>
@@ -52,7 +42,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>

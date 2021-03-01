@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.UIFramework/.idea/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.UIFramework/.idea/riderModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.UIFramework/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.UIFramework/riderModule.iml" />
     </modules>
   </component>
 </project>
