@@ -759,6 +759,7 @@
           </e>
           <e p="Utils" t="Include">
             <e p="CollectionExtensions.cs" t="Include" />
+            <e p="FunctionalLib.cs" t="Include" />
             <e p="ObjectsManager.cs" t="Include" />
             <e p="Odds.cs" t="Include" />
             <e p="OddsGroup.cs" t="Include" />
