@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Administrator\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_UIFramework.-1443696812.00" t="ExcludeRecursive" />
+    <e p="G:\MyUnitProjects\UnityUIFramework\UIFramework" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -755,6 +757,12 @@
             <e p="EventPenetrate.cs" t="Include" />
             <e p="RectTRansformSafeArea.cs" t="Include" />
           </e>
+          <e p="Utils" t="Include">
+            <e p="CollectionExtensions.cs" t="Include" />
+            <e p="ObjectsManager.cs" t="Include" />
+            <e p="Odds.cs" t="Include" />
+            <e p="OddsGroup.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
@@ -769,10 +777,8 @@
       <e p="LeanTransition.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
-      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="UIFramework.sln" t="IncludeFlat" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_UIFramework.1396926543.00" t="ExcludeRecursive" />
   </component>
 </project>
