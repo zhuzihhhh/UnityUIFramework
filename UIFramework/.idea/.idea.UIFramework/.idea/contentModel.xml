@@ -753,6 +753,7 @@
             <e p="TileMark.cs" t="Include" />
             <e p="TileMarkGroup.cs" t="Include" />
           </e>
+          <e p="GuestQueue.cs" t="Include" />
           <e p="UI" t="Include">
             <e p="EventPenetrate.cs" t="Include" />
             <e p="RectTRansformSafeArea.cs" t="Include" />

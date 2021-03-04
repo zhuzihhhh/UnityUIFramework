@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/FunctionalLib.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/OddsGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/EventPenetrate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/Odds.cs" root0="FORCE_HIGHLIGHTING" />
@@ -22,6 +23,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Odds.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Utils/OddsGroup.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Utils/ObjectsManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils/FunctionalLib.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ovD55fBIRAvS1o0ulpZOgfBJF3" />
@@ -69,7 +71,7 @@
       <workItem from="1614158020294" duration="3309000" />
       <workItem from="1614222089264" duration="4631000" />
       <workItem from="1614411928665" duration="2006000" />
-      <workItem from="1614828171776" duration="2031000" />
+      <workItem from="1614828171776" duration="2630000" />
     </task>
     <servers />
   </component>
