@@ -91,7 +91,7 @@ public class TileMarkGroup : MonoBehaviour, IEnumerable<TileMark> {
             var collider2Ds = Physics2D.OverlapPointAll(m.transform.position);
 
             var overlapTiles = collider2Ds
-                .Where(col => col != m.collider2D)
+                .Where(col => col != m.tileMarkCollider2D)
                 .Select(col => col.GetComponent<Tile>())
                 .Where(tile => tile != null);
 

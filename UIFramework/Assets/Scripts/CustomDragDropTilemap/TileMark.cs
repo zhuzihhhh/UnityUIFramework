@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
+using UnityEngine.Serialization;
 
 public class TileMark : MonoBehaviour {
     [HideInInspector] public SpriteRenderer spriteRenderer;
-    [HideInInspector] public BoxCollider2D collider2D;
+    [HideInInspector] public BoxCollider2D tileMarkCollider2D;
     public Tile OverTile { get; set; }
     public Tile UsedTile { get; set; }
 
@@ -10,7 +11,7 @@ public class TileMark : MonoBehaviour {
 
     private void Start() {
         spriteRenderer = GetComponent<SpriteRenderer>();
-        collider2D = GetComponent<BoxCollider2D>();
+        tileMarkCollider2D = GetComponent<BoxCollider2D>();
         var pos = transform.position;
         pos.z = -1;
         transform.position = pos;
@@ -30,7 +31,6 @@ public class TileMark : MonoBehaviour {
     }
 
     private void OnMouseUp() {
-        Debug.Log("Mouse Up");
         TileMap.Instance.ResetAllColor();
 
         group.UpdateGroupTilesUseage();

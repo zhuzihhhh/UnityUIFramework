@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class Tile : MonoBehaviour {
     [HideInInspector] public SpriteRenderer spriteRenderer;
-    [HideInInspector] public BoxCollider2D collider2D;
+    [HideInInspector] public BoxCollider2D tileCollider2D;
 
     public bool IsUsed { get; private set; }
 
@@ -14,7 +14,7 @@ public class Tile : MonoBehaviour {
 
     private void Awake() {
         spriteRenderer = GetComponent<SpriteRenderer>();
-        collider2D = GetComponent<BoxCollider2D>();
+        tileCollider2D = GetComponent<BoxCollider2D>();
     }
 
     public void Use(TileMark user) {

@@ -72,13 +72,4 @@ public class ObjectsManager<T> : MonoBehaviour, IEnumerable<T> where T : MonoBeh
     /// </summary>
     /// <param name="predicate"></param>
     /// <returns></returns>
-    [Obsolete]
-    public T Find(Func<T, bool> predicate) {
-        try {
-            return goList.First(predicate);
-        }
-        catch (Exception e) {
-            return default(T);
-        }
-    }
 }
