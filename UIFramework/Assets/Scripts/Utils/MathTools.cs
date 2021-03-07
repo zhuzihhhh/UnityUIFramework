@@ -27,4 +27,9 @@ public static class MathTools {
         result[result.Length - 1] += remainder;
         return result;
     }
+
+    public static (float, float) GetOddsOf(float a, float b) {
+        var sum = a + b;
+        return (a / sum, b / sum);
+    }
 }
